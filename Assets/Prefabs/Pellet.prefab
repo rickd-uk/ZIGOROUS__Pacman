@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2233690054511091925}
   - component: {fileID: 2233690054511091924}
   - component: {fileID: 2233690054511091927}
+  - component: {fileID: 3668583654889610159}
   m_Layer: 7
   m_Name: Pellet
   m_TagString: Untagged
@@ -111,3 +112,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.25, y: 0.25}
   m_EdgeRadius: 0
+--- !u!114 &3668583654889610159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2233690054511091926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff5ac4b3c654cb147aca385df885b097, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
